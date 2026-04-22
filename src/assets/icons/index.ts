@@ -1,6 +1,6 @@
 import add_icon from "./add_icon.svg";
 import arrow_icon from "./arrow_icon.svg";
-import arrow_right_icon_colored from "./arrow_right_icon_colored.svg";
+import arrow_right_colored_icon from "./arrow_right_colored_icon.svg";
 import arrow_white_icon from "./arrow_white_icon.svg";
 import box_icon from "./box_icon.svg";
 import cart_icon from "./cart_icon.svg";
@@ -24,7 +24,7 @@ import user_icon from "./user_icon.svg";
 export const ICONS = {
   add_icon,
   arrow_icon,
-  arrow_right_icon_colored,
+  arrow_right_colored_icon,
   arrow_white_icon,
   box_icon,
   cart_icon,
