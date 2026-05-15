@@ -4,11 +4,14 @@ import bose_headphone_image from "./bose_headphone_image.png";
 import boy_with_laptop_image from "./boy_with_laptop_image.png";
 import cannon_camera_image from "./cannon_camera_image.png";
 import checkmark_image from "./checkmark_image.png";
+import exclusive_image from "./exclusive_image.png";
 import girl_with_earphone_image from "./girl_with_earphone_image.png";
 import girl_with_headphone_image from "./girl_with_headphone_image.png";
+import hand_image from "./hand_image.png";
 import header_headphone_image from "./header_headphone_image.png";
 import header_macbook_image from "./header_macbook_image.png";
 import header_playstation_image from "./header_playstation_image.png";
+import hero_image from "./hero_image.png";
 import jbl_soundbox_image from "./jbl_soundbox_image.png";
 import macbook_image from "./macbook_image.png";
 import md_controller_image from "./md_controller_image.png";
@@ -32,11 +35,14 @@ export const IMAGES = {
   boy_with_laptop_image,
   cannon_camera_image,
   checkmark_image,
+  exclusive_image,
   girl_with_earphone_image,
   girl_with_headphone_image,
+  hand_image,
   header_headphone_image,
   header_macbook_image,
   header_playstation_image,
+  hero_image,
   jbl_soundbox_image,
   macbook_image,
   md_controller_image,
