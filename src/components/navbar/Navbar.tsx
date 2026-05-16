@@ -23,7 +23,7 @@ export const Navbar = () => {
   return (
     <div className="navbar">
       <div className="nav-logo">
-        <Image src={ICONS.logo_icon} alt="" height={8 * 24} width={8 * 40} />
+        <Image src={ICONS.logo_icon} alt="" height={8 * 24} width={8 * 48} />
       </div>
       <ul className="nav-menu">
         <li onClick={_handleMenuItemClick("shop")}>
