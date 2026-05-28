@@ -8,7 +8,7 @@ const Popular = () => {
       <h1>Popular In Women</h1>
       <hr />
       <div className="popular-item">
-        {all_product.map((item, i) => {
+        {all_product.slice(0, 4).map((item, i) => {
           return (
             <Item
               key={i}
