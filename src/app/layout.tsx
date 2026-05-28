@@ -1,4 +1,6 @@
+import Footer from "@/components/footer/Footer";
 import { Navbar } from "@/components/navbar/Navbar";
+import ShopContextProvider from "@/context/ShopContext";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -34,8 +36,11 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <Navbar />
-        {children}
+        <ShopContextProvider>
+          <Navbar />
+          {children}
+        </ShopContextProvider>
+        <Footer />
       </body>
     </html>
   );
