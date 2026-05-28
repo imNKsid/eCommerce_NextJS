@@ -3,8 +3,11 @@ import arrow_icon from "./arrow_icon.svg";
 import arrow_right_colored_icon from "./arrow_right_colored_icon.svg";
 import arrow_white_icon from "./arrow_white_icon.svg";
 import box_icon from "./box_icon.svg";
+import cart_cross_icon from "./cart_cross_icon.svg";
 import cart_icon from "./cart_icon.svg";
+import chevron_right_gray_icon from "./chevron_right_gray_icon.svg";
 import decrease_arrow_icon from "./decrease_arrow_icon.svg";
+import dropdown_black_icon from "./dropdown_black_icon.svg";
 import facebook_icon from "./facebook_icon.svg";
 import heart_icon from "./heart_icon.svg";
 import increase_arrow_icon from "./increase_arrow_icon.svg";
@@ -27,8 +30,11 @@ export const ICONS = {
   arrow_right_colored_icon,
   arrow_white_icon,
   box_icon,
+  cart_cross_icon,
   cart_icon,
+  chevron_right_gray_icon,
   decrease_arrow_icon,
+  dropdown_black_icon,
   facebook_icon,
   heart_icon,
   increase_arrow_icon,
